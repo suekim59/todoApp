@@ -1,0 +1,9 @@
+/* Add your styles here */
+
+.input-group.ng-vaild.ng-dirty {
+  border: solid 1px green;
+}
+
+.input-group.ng-invaild.ng-dirty{
+  border : solid 1px red;
+}
